@@ -1,0 +1,18 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="120dp"
+    android:height="80dp"
+    android:viewportWidth="120"
+    android:viewportHeight="80">
+    <!-- Left diagonal pill -->
+    <path
+        android:fillColor="#00B589"
+        android:pathData="M35,22 L48,48 C50,52 48,57 44,59 C40,61 35,59 33,55 L20,29 C18,25 20,20 24,18 C28,16 33,18 35,22 Z" />
+    <!-- Middle diagonal pill -->
+    <path
+        android:fillColor="#00B589"
+        android:pathData="M43,58 L72,20 C74,16 80,15 83,18 C87,21 87,27 84,30 L55,68 C52,72 46,73 43,70 C39,67 39,61 43,58 Z" />
+    <!-- Right top diagonal pill -->
+    <path
+        android:fillColor="#00B589"
+        android:pathData="M88,18 L96,28 C98,31 97,36 94,38 C90,40 85,39 83,35 L75,25 C73,22 74,17 78,15 C81,13 86,14 88,18 Z" />
+</vector>
